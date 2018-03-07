@@ -1,9 +1,12 @@
 #include<stdio.h> 
 
-main()
+int main()
 
 {    
 
-   printf("Hello World\n");
+   	printf("Fare thee well\n");
+   	printf("Hello World\n");
+
+	return 0;
 
 }
